@@ -39,10 +39,4 @@ Set handler: index.handler
 🔗 Connect with Me
 Made with 💻 by Suraj Karle
 
-yaml
-Copy
-Edit
-
----
-
 Let me know if you want help generating the GitHub repo name or writing your LinkedIn post.
